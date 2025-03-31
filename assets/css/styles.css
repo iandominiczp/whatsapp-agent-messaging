@@ -1,0 +1,26 @@
+.whatsapp-message-form {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    width: 50%;
+    margin: 20px auto;
+    text-align: center;
+}
+.whatsapp-message-form textarea {
+    width: 100%;
+    height: 100px;
+    margin-bottom: 10px;
+}
+.whatsapp-message-form button {
+    padding: 10px 20px;
+    background-color: #25D366;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+.whatsapp-message-form button:hover {
+    background-color: #128C7E;
+}
+#response {
+    margin-top: 10px;
+}
